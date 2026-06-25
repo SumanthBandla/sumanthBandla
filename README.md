@@ -24,7 +24,7 @@
 
 > *"Transforming Data into Intelligence, Ideas into Innovation."*
 
-Hey! I'm **Sumanth Bandla** — a fresher-level **Data Scientist** and **DevOps Engineer** and **Quantum Learning** based in Hyderabad, India 🇮🇳. I build end-to-end ML pipelines, automate infrastructure, and explore the frontier of **Generative AI** and **LLMs**.
+Hey! I'm **Sumanth Bandla** — a fresher-level **Data Scientist**  and **Quantum Learning** based in Hyderabad, India 🇮🇳. I build end-to-end ML pipelines, automate infrastructure, and explore the frontier of **Generative AI** and **LLMs**.
 
 I'm currently pursuing **B.Tech in CSE (Data Science)** at RK College of Engineering, and I'm actively building my skills and portfolio in AI/ML Engineering and DevOps.
 
@@ -38,7 +38,6 @@ I'm currently pursuing **B.Tech in CSE (Data Science)** at RK College of Enginee
 ---
 
 <!-- SECTION C: TECH STACK -->
-## 🛠️ Tech Stack
 
 ## 🛠️ Tech Stack
 
